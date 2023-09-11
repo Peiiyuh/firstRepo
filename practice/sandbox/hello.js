@@ -2,7 +2,7 @@
 
 function main()
 {
-    var name = "Pei";
+    var name = "Peiiiii";
     console.log("Hello, " + name + "!!");
 }
 
