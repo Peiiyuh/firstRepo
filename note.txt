@@ -1,0 +1,55 @@
+cd -change directly  
+
+cd.. -go back 
+
+m -message 
+
+mkdir -creat folder 
+
+rmdir -remove 
+
+git add  
+
+git commit 
+
+git config
+
+***add first and commit after*** 
+
+git init -let foldee becomes git's repository 
+
+git log -how many time you commit 
+
+
+consle.log=the message you want to leave to colleagues but wont show on website
+console.log("_____") or console.log('_____')
+**gurantee not have posterfee
+
+bouble line message:
+1) console.log("pei!")
+   console.log("hello mealoaf and peanut")
+2) console.log("pei!\nhello meatloaf and peanut")    \n=move to the next line
+3) console.log("pei!\t\thello meatloaf and peanut")  \t=space
+
+ask for info:
+var readlineSync = require("readline-sync");
+var name = readlineSyne.question("What is your name? ")
+
+   //input section
+   var name = readlineSync.question("What is your name?");
+
+   //output section
+   console.log("Hello, " + name + "!")
+
+variable name rules:
+1) no spaces
+2)firstname and firstName are different
+3)cannot start with number
+
+var firstName = readlineSync.question("What is your first name?");
+var lastName = readlineSync.question("What is your last name?");
+console.log("Hello " + firstName + " " + lastName)
+
+var message = "Hello World";
+console.log(message.toLowerCase())
+console.log(message.toUpperCase())

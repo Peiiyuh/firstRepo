@@ -10,7 +10,7 @@ function main()
    var name = readlineSync.question("What is your name?");
 
    //output section
-   console.log("Hello, " + name + "!")
+   console.log("Hello, " + name + "!");
 }
 
 //not modify code below; use to trigger code above
