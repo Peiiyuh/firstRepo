@@ -11,7 +11,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/practice/sandbox\\hello.js"
+            "program": "${workspaceFolder}/practice\\inputOutputDemo.js",
+            "console": "externalTerminal"
         }
     ]
 }
