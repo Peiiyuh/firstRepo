@@ -3,7 +3,7 @@ var readlineSync = require("readline-sync");
 function main()
 {
     //print one line
-   console.log("Meatloag and Peanut are so cute!\t\thello piggies");
+   console.log("Meatloag and Peanut are so cute!\thello piggies");
    console.log("hello piggy");
 
    //input section

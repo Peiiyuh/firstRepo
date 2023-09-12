@@ -9,11 +9,11 @@ function main()
 
    var firstName = readlineSync.question("What is your first name?");
    var lastName = readlineSync.question("What is your last name?");
-   console.log("Hello " + firstName + " " + lastName);
+   console.log("Hello " + firstName.toLowerCase() + " " + lastName);
 
    firstName ="Bob";
    lastName ="huu"; 
-   console.log("Hello " + firstName + " " + lastName);
+   console.log("Hello " + firstName.toUpperCase() + " " + lastName);
 
 }
 
