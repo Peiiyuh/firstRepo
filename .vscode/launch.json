@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/practice\\inputOutputDemo.js",
+            "program": "${workspaceFolder}/practice\\variable\\number.js",
             "console": "externalTerminal"
         }
     ]

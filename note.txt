@@ -53,3 +53,22 @@ console.log("Hello " + firstName + " " + lastName)
 var message = "Hello World";
 console.log(message.toLowerCase())
 console.log(message.toUpperCase())
+
+***npm install readline-sync
+
+var age = 42;
+console.log(age);
+
+5**2 (exponent)= 5^2 =25
+5%2 (modulo)= 5%2 =1
+
+** exponent (ex:**2 squared **3cubed)
+() parentheses
+
+parseInt() converts to an integer
+parseLong() converts to a long integer
+parseFloat() converts to a floating number (keep decimal)
+ex: a number that can hold decimal places
+value.toString() converts to a string
+
+in JavaScript, number and string show no difference in console.log!!
